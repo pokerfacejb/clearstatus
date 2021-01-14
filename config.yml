@@ -6,6 +6,8 @@ params:
     Wiesbaden systems normal operation, incidents that may happen and their
     resolution.
   systems:
+    - name: FLS Homepage
+      link: https://www.fls-wiesbaden.de/
     - name: Schulportal
       description: Our company public facing website
       link: https://start.schulportal.hessen.de/6328
@@ -16,8 +18,6 @@ params:
       link: https://mo6328.schule.hessen.de/
     - name: BBB-Server
       link: https://app.bbbserver.de/de/login
-    - name: FLS Homepage
-      link: https://www.fls-wiesbaden.de/
   dateFormat: January 2, 2006 at 14:45
   disqusShortname: null
   timezoneString: UTC+2
@@ -31,5 +31,5 @@ params:
   iconType: image/png
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='Visit fls-wiesbaden.de'
-    href='https://fls-wiesbaden.de/'>Example.com</a> provides open-source
+    href='https://fls-wiesbaden.de/'>FLS-Wiesbaden</a> provides open-source
     software for all kind of sectors.
