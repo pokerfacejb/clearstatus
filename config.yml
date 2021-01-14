@@ -29,6 +29,7 @@ params:
   copyrightHolder: FLS Wiesbaden
   eventsPerPage: 10
   iconType: image/png
+  groups: []
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='Visit fls-wiesbaden.de'
     href='https://fls-wiesbaden.de/'>FLS-Wiesbaden</a> provides open-source
