@@ -2,7 +2,7 @@
 section: issue
 title: Website is down
 date: 2021-01-14T22:06:45.080Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: monitoring
 max_severity: down
