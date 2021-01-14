@@ -16,6 +16,8 @@ params:
       link: https://mo6328.schule.hessen.de/
     - name: BBB-Server
       link: https://app.bbbserver.de/de/login
+    - name: FLS Homepage
+      link: https://www.fls-wiesbaden.de/
   dateFormat: January 2, 2006 at 14:45
   disqusShortname: null
   timezoneString: UTC+2
