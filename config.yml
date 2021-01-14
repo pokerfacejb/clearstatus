@@ -9,7 +9,7 @@ params:
     - name: FLS Homepage
       link: https://www.fls-wiesbaden.de/
     - name: Schulportal
-      description: Our company public facing website
+      description: https://info.schulportal.hessen.de/status-infos/
       link: https://start.schulportal.hessen.de/6328
     - name: Ticketsystem
       description: Our company customer support site
